@@ -1,2 +1,2 @@
-# vs1
+# HTML/CSS Basics
  basics of html & css
